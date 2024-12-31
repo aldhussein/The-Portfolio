@@ -7,7 +7,7 @@ const Achievement = () => {
     <motion.div
       initial={{ opacity: 0 }}
       animate={{ opacity: 1, transition: { duration: 0.5 } }}
-      className="py-12 font-titleFont flex gap-20 "
+      className="py-12 font-titleFont flex gap-20 max:sm-flex-col"
     >
       <div className="flex max-sm:flex-col">
         <div className="py-12 font-titleFont flex flex-col gap-4">
