@@ -9,7 +9,7 @@ const Achievement = () => {
       animate={{ opacity: 1, transition: { duration: 0.5 } }}
       className="py-12 font-titleFont flex gap-20 max:sm-flex-col"
     >
-      <div className="flex max-sm:flex-col">
+      <div className="flex max-sm:bg-red-800">
         <div className="py-12 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px]">2020 - 2024</p>
           <h2 className="text-4xl font-bold">Freela Experience</h2>
