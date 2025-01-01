@@ -7,7 +7,7 @@ const Banner = () => {
       id="home"
       className="w-full pt-10 pb-20 flex flex-col max-xl:flex-col-col gap-10 xl:gap-0 lgl:flex-row items-center border-b-[1px] font-titleFont border-b-black"
     >
-        <div className"flex flex-col">
+        <div class"flex flex-col">
       <LeftBanner />
      <RightBanner />
         <div/>
