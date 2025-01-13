@@ -1,6 +1,6 @@
 import logo from "./images/mylogo.png";
 import bannerImg from "./images/profile.png";
-import Resume from "./images/MyN-Resume.pdf";
+import Resume from "./images/MyResume (Up).pdf";
 import projectOne from "./images/projects/restaurant.jpg";
 import projectTwo from "./images/projects/sneakers.jpeg";
 import projectThree from "./images/projects/boostore.jpg";
