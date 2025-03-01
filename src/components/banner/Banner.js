@@ -8,8 +8,8 @@ const Banner = () => {
       className="w-full pt-10 pb-20 sm:flex-col  xl:gap-0 items-center border-b-[1px] font-titleFont border-b-black"
     >
      
-      <LeftBanner />
-     <RightBanner />
+      <LeftBanner className="w-1/2"/>
+     <RightBanner className="w-1/2" />
     </section>
   );
 }
