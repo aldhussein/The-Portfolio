@@ -5,11 +5,11 @@ const Banner = () => {
   return (
     <section
       id="home"
-      className="w-full pt-10 pb-20 sm:flex-col  xl:gap-0 items-center border-b-[1px] font-titleFont border-b-black"
+      className="w-full pt-10 pb-20 flex xl:gap-0 items-center border-b-[1px] font-titleFont border-b-black"
     >
      
-      <LeftBanner className="w-1/2"/>
-     <RightBanner className="w-1/2" />
+      <LeftBanner />
+     <RightBanner />
     </section>
   );
 }
