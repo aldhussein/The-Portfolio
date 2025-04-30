@@ -2,7 +2,7 @@ import logo from "./images/mylogo.png";
 import bannerImg from "./images/profile.png";
 import Resume from "./images/MyResume (Up).pdf";
 import projectOne from "./images/projects/restaurant.jpg";
-import projectTwo from "./images/projects/todo.jpeg";
+import projectTwo from "./images/projects/todo.jpg";
 import projectThree from "./images/projects/boostore.jpg";
 import projectFour from "./images/projects/digital.jpeg";
 import projectFive from "./images/projects/elearning.jpg";
