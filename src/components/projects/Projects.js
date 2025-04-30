@@ -24,13 +24,12 @@ const Projects = () => {
           and exceptional service in a welcoming atmosphere.!"
           src={projectOne}
           github={<a href="https://github.com/aldhussein/Aflax-Restaurant/" target='blank'><BsGithub /></a>}
-          link={<a href="https://aflaxretaurant.netlify.app/" target='blank'><FaGlobe /></a>}
+          link={<a href="https://next-js2-topaz.vercel.app/" target='blank'><FaGlobe /></a>}
 
         />
         <ProjectsCard
-          title="Todo Web App"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="FullStack Todo Web App"
+          des="Full-stack TODO app using Next.js 15 with App Router, CRUD, auth, DB storage, Tailwind UI, and server actions for a seamless task management."
           src={projectTwo}
           github={<a href="https://github.com/aldhussein/shopify" target='blank'><BsGithub /></a>}
           link={<a href="https://sneekers-shop.netlify.app/" target='blank'><FaGlobe /></a>}
