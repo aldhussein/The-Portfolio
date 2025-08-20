@@ -28,11 +28,11 @@ const Projects = () => {
 
         />
         <ProjectsCard
-          title="FullStack Todo Web App"
-          des="Full-stack TODO app using Next.js 15 with App Router, CRUD, auth, DB storage, Tailwind UI, and server actions for a seamless task management."
+          title="FullStack E-commerce ALD TECHs"
+          des="ALD TECHs offers a seamless shopping experience with top laptops, desktops, gaming PCs, and PC parts. Find powerful, modern, and reliable tech built for gamers, professionals, and enthusiasts."
           src={projectTwo}
-          github={<a href="https://github.com/aldhussein/NextJs2" target='blank'><BsGithub /></a>}
-          link={<a href="https://next-js2-topaz.vercel.app/" target='blank'><FaGlobe /></a>}
+          github={<a href="https://github.com/aldhussein/NextJs2" target='_blank'><BsGithub /></a>}
+          link={<a href="https://e-commerce-gamma-seven-91.vercel.app/" target='_blank'><FaGlobe /></a>}
         />
         <ProjectsCard
           title="book Store Website"
