@@ -7,6 +7,7 @@ import projectThree from "./images/projects/boostore.jpg";
 import projectFour from "./images/projects/digital.jpeg";
 import projectFive from "./images/projects/elearning.jpg";
 import projectSix from "./images/projects/shopping.jpg";
+import blogImage from "./images/projects/blog.png";
 import testimonialOne from "./images/testmonial/testimonialOne.png";
 import testimonialTwo from "./images/testmonial/testimonialTwo.png";
 import quote from "./images/testmonial/quote.png";
@@ -21,6 +22,7 @@ export {
   projectFour,
   projectFive,
   projectSix,
+  blogImage,
   testimonialOne,
   testimonialTwo,
   quote,
