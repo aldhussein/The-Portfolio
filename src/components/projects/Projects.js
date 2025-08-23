@@ -18,19 +18,20 @@ const Projects = () => {
         />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
-       <ProjectsCard
-          title="FullStack Public Blog"
-          des="A modern, responsive blog platform built with Next.js, TypeScript, Tailwind CSS, Prisma, and Firebase Auth. Users can create, edit, like, comment on posts, manage profiles, and enjoy dark/light mode with seamless pagination."
-          src={blogImage}
-          github={<a href="https://github.com/aldhussein/NextJs2" target='_blank'><BsGithub /></a>}
-          link={<a href="https://e-commerce-gamma-seven-91.vercel.app/" target='_blank'><FaGlobe /></a>}
-        />
+
          <ProjectsCard
           title="FullStack E-commerce ALD TECHs"
           des="ALD TECHs offers a seamless shopping experience with top laptops, desktops, gaming PCs, and PC parts. Find powerful, modern, and reliable tech built for gamers, professionals, and enthusiasts."
           src={projectTwo}
-          github={<a href="https://github.com/aldhussein/NextJs2" target='_blank'><BsGithub /></a>}
+          github={<a href="https://github.com/aldhussein/E-commerce" target='_blank'><BsGithub /></a>}
           link={<a href="https://e-commerce-gamma-seven-91.vercel.app/" target='_blank'><FaGlobe /></a>}
+        />
+          <ProjectsCard
+          title="FullStack Public Blog"
+          des="A modern, responsive blog platform built with Next.js, TypeScript, Tailwind CSS, Prisma, and Firebase Auth. Users can create, edit, like, comment on posts, manage profiles, and enjoy dark/light mode with seamless pagination."
+          src={blogImage}
+          github={<a href="https://github.com/aldhussein/Public_Blog" target='_blank'><BsGithub /></a>}
+          link={<a href="https://public-blog-gamma.vercel.app/" target='_blank'><FaGlobe /></a>}
         />
         <ProjectsCard
           title="Aflax Restaurant"
