@@ -25,6 +25,13 @@ const Projects = () => {
           github={<a href="https://github.com/aldhussein/NextJs2" target='_blank'><BsGithub /></a>}
           link={<a href="https://e-commerce-gamma-seven-91.vercel.app/" target='_blank'><FaGlobe /></a>}
         />
+         <ProjectsCard
+          title="FullStack E-commerce ALD TECHs"
+          des="ALD TECHs offers a seamless shopping experience with top laptops, desktops, gaming PCs, and PC parts. Find powerful, modern, and reliable tech built for gamers, professionals, and enthusiasts."
+          src={projectTwo}
+          github={<a href="https://github.com/aldhussein/NextJs2" target='_blank'><BsGithub /></a>}
+          link={<a href="https://e-commerce-gamma-seven-91.vercel.app/" target='_blank'><FaGlobe /></a>}
+        />
         <ProjectsCard
           title="Aflax Restaurant"
           des=" Aflax Restaurant offers a unique dining experience with fresh, locally sourced dishes 
