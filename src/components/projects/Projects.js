@@ -44,12 +44,11 @@ const Projects = () => {
         />
         
         <ProjectsCard
-          title="book Store Website"
-          des=" Book Store offers a curated selection of books for every reader, with a cozy atmosphere and personalized
-           service to ignite your love for reading."
+          title="Fullstack Todo-List"
+          des="A full-stack To-Do app with user authentication, where each user can securely manage their own tasks with full CRUD functionality."
           src={projectThree}
-          github={<a href="https://github.com/aldhussein/Book-Store" target='blank'><BsGithub /></a>}
-          link={<a href="https://ald-book-store.netlify.app/" target='blank'><FaGlobe /></a>}
+          github={<a href="https://github.com/aldhussein/Todo/" target='blank'><BsGithub /></a>}
+          link={<a href="https://todo-beta-eight-74.vercel.app/" target='blank'><FaGlobe /></a>}
         />
         <ProjectsCard
           title="Digital Agency"
