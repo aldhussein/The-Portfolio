@@ -33,6 +33,13 @@ const Projects = () => {
           github={<a href="https://github.com/aldhussein/Public_Blog" target='_blank'><BsGithub /></a>}
           link={<a href="https://public-blog-gamma.vercel.app/" target='_blank'><FaGlobe /></a>}
         />
+          <ProjectsCard
+          title="Fullstack Todo-List"
+          des="A full-stack To-Do app with user authentication, where each user can securely manage their own tasks with full CRUD functionality."
+          src={projectThree}
+          github={<a href="https://github.com/aldhussein/Todo/" target='blank'><BsGithub /></a>}
+          link={<a href="https://todo-beta-eight-74.vercel.app/" target='blank'><FaGlobe /></a>}
+        />
         <ProjectsCard
           title="Aflax Restaurant"
           des=" Aflax Restaurant offers a unique dining experience with fresh, locally sourced dishes 
@@ -43,13 +50,7 @@ const Projects = () => {
 
         />
         
-        <ProjectsCard
-          title="Fullstack Todo-List"
-          des="A full-stack To-Do app with user authentication, where each user can securely manage their own tasks with full CRUD functionality."
-          src={projectThree}
-          github={<a href="https://github.com/aldhussein/Todo/" target='blank'><BsGithub /></a>}
-          link={<a href="https://todo-beta-eight-74.vercel.app/" target='blank'><FaGlobe /></a>}
-        />
+     
         <ProjectsCard
           title="Digital Agency"
           des=" My Digital Agency combines creative design, innovative strategies, and cutting-edge technology to help
