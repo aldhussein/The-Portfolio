@@ -3,7 +3,7 @@ import bannerImg from "./images/profile.png";
 import Resume from "./images/MyResume (Up).pdf";
 import projectOne from "./images/projects/restaurant.jpg";
 import projectTwo from "./images/projects/ecommerceth.jpg";
-import projectThree from "./images/projects/boostore.jpg";
+import projectThree from "./images/projects/todo.jpg";
 import projectFour from "./images/projects/digital.jpeg";
 import projectFive from "./images/projects/elearning.jpg";
 import projectSix from "./images/projects/shopping.jpg";
