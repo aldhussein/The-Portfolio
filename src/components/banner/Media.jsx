@@ -5,7 +5,7 @@ import {Resume} from "../../assets/index";
 const Media = () => {
   return (
     <div className="flex flex-col min-xl:flex-row gap-6 lgl:gap-0 justify-between">
-        <div>
+        <div className="mb-4">
           <h2 className="text-base uppercase font-titleFont mb-4">
             Find me in
           </h2>
