@@ -24,7 +24,7 @@ const Projects = () => {
           des="ALD TECHs offers a seamless shopping experience with top laptops, desktops, gaming PCs, and PC parts. Find powerful, modern, and reliable tech built for gamers, professionals, and enthusiasts."
           src={projectTwo}
           github={<a href="https://github.com/aldhussein/E-commerce" target='_blank'><BsGithub /></a>}
-          link={<a href="https://e-commerce-gamma-seven-91.vercel.app/" target='_blank'><FaGlobe /></a>}
+          link={<a href="https://ecommerce2-three-sable.vercel.app/" target='_blank'><FaGlobe /></a>}
         />
           <ProjectsCard
           title="FullStack Public Blog"
