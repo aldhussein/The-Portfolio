@@ -4,7 +4,7 @@ import Resume from "./images/MyResume (Up).pdf";
 import projectOne from "./images/projects/restaurant.jpg";
 import projectTwo from "./images/projects/ecommerceth.jpg";
 import projectThree from "./images/projects/todo.jpg";
-import projectFour from "./images/projects/digital.jpeg";
+import projectFour from "./images/projects/elearning.jpg";
 import projectFive from "./images/projects/elearning.jpg";
 import projectSix from "./images/projects/shopping.jpg";
 import blogImage from "./images/projects/blog.png";
