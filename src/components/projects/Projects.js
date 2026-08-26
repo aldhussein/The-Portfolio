@@ -24,8 +24,17 @@ const Projects = () => {
           des="ALD TECHs offers a seamless shopping experience with top laptops, desktops, gaming PCs, and PC parts. Find powerful, modern, and reliable tech built for gamers, professionals, and enthusiasts."
           src={projectTwo}
           github={<a href="https://github.com/aldhussein/E-commerce" target='_blank' rel="noreferrer"><BsGithub /></a>}
-          link={<a href="https://ecommerce2-three-sable.vercel.app/" target='_blank' rel="noreferrer"><FaGlobe /></a>}
+          link={<a href="https://github.com/aldhussein/Ecommerce2" target='_blank' rel="noreferrer"><FaGlobe /></a>}
         />
+
+        <ProjectsCard
+          title="Elearning Website"
+          des="Full-stack course marketplace with instructor dashboards, Stripe payments, and progress tracking — built end-to-end with Next.js, TypeScript, and PostgreSQL."
+          src={projectFour}
+          github={<a href="https://github.com/aldhussein/Elearning" target='_blank' rel="noreferrer"><BsGithub /></a>}
+          link={<a href="https://elearning-gilt-two.vercel.app/" target='_blank' rel="noreferrer"><FaGlobe /></a>}
+        />
+            
           <ProjectsCard
           title="FullStack Public Blog"
           des="A modern, responsive blog platform built with Next.js, TypeScript, Tailwind CSS, Prisma, and Firebase Auth. Users can create, edit, like, comment on posts, manage profiles, and enjoy dark/light mode with seamless pagination."
@@ -51,14 +60,7 @@ const Projects = () => {
         />
         
      
-        <ProjectsCard
-          title="Digital Agency"
-          des=" My Digital Agency combines creative design, innovative strategies, and cutting-edge technology to help
-           businesses thrive in the digital world"
-          src={projectFour}
-          github={<a href="https://github.com/aldhussein/Digital-agency" target='_blank' rel="noreferrer"><BsGithub /></a>}
-          link={<a href="https://ald-digital-agency.netlify.app/" target='_blank' rel="noreferrer"><FaGlobe /></a>}
-        />
+   
         <ProjectsCard
           title="E-commerce Website"
           des=" My E-Commerce Store  offers a seamless shopping experience with a wide range of high-quality products, fast shipping,
