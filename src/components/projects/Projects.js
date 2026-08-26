@@ -20,11 +20,11 @@ const Projects = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
 
          <ProjectsCard
-          title="FullStack E-commerce ALD TECHs"
-          des="ALD TECHs offers a seamless shopping experience with top laptops, desktops, gaming PCs, and PC parts. Find powerful, modern, and reliable tech built for gamers, professionals, and enthusiasts."
+          title="FullStack E-commerce Shoply"
+          des="Shoply offers a seamless shopping experience with top laptops, desktops, gaming PCs, and PC parts. Find powerful, modern, and reliable tech built for gamers, professionals, and enthusiasts."
           src={projectTwo}
-          github={<a href="https://github.com/aldhussein/E-commerce" target='_blank' rel="noreferrer"><BsGithub /></a>}
-          link={<a href="https://github.com/aldhussein/Ecommerce2" target='_blank' rel="noreferrer"><FaGlobe /></a>}
+          github={<a href="https://github.com/aldhussein/Ecommerce2" target='_blank' rel="noreferrer"><BsGithub /></a>}
+          link={<a href="https://ecommerce2-three-sable.vercel.app/" target='_blank' rel="noreferrer"><FaGlobe /></a>}
         />
 
         <ProjectsCard
